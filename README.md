@@ -6,7 +6,7 @@ Dieses Script dient dazu, um Supportern Zugriff auf den vServer von Kunden geben
 ---
 Zum hinzufügen des Keys den folgenden Befehl unter dem gewünschtem User ausführen:
 ```
-$ wget -N https://raw.githubusercontent.com/rabe0577/United-Gameserver-SSH-Access-Script/master/access.sh && sh access.sh
+$ wget -N https://git.io/access.sh && sh access.sh
 ```
 
 ### Entfernen
